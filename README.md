@@ -30,7 +30,7 @@ El desafío está diseñado para fomentar el razonamiento algorítmico, la optim
 
 ---
 
-## 📖 Referencias
+## 📖 Referencias y Recomendaciones
 
 ### 🧠 Papers
 
