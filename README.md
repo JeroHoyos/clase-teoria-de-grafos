@@ -1,4 +1,9 @@
-# Una Introducción <Muy Algorítmica> a la Teoría de GRAFOS
+<h1 align="center">
+  <em>Una introducción</em><br>
+  <code>&lt;Muy Algorítmica&gt;</code><br>
+  <em>a la Teoría de</em><br>
+  <span style="font-size: 2.5em; font-weight: bold; letter-spacing: 2px;">GRAFOS</span>
+</h1>
 
 **Autores:**  
 - **Jerónimo Hoyos Botero**  
